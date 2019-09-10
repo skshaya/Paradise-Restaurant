@@ -1,5 +1,6 @@
 # Paradise-Restaurant
-Its a web based application using PHP and MYSQL.
+Its a web based application using PHP, Laravel Framework and MYSQL.
+
 ## Configuration
 - Install `composer`
 - Point console to project `root` directory
